@@ -1,5 +1,5 @@
 <template>
-<div class="footer">
+  <div class="footer">
     <div class="ng-promise-box">
       <div class="ng-promise w1200">
         <p class="text">
@@ -9,7 +9,7 @@
         </p>
       </div>
     </div>
-    <div class="mod_help w1200">                                     
+    <div class="mod_help w1200">
       <p>
         <a href="javascript:;">关于我们</a>
         <span>|</span>
@@ -28,6 +28,6 @@
 
 <script>
 export default {
-    name: 'Footer',
-}
+  name: "Footer"
+};
 </script>
